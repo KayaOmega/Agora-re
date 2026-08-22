@@ -24,7 +24,6 @@
 
 - **包名**：`com.newoether.agorare`（与官方 `com.newoether.agora` 及 2.0.0 的 `com.starxc.agora` 均不同，**可共存安装**）
 - **版本**：2.0.0（versionCode 30）
-- **签名**：与 2.0.0 终端修复版同一证书（C=CN）
 - **SHA-256**：`97913d16019d88b1851060da3d6ce52bbc55f67ef72e74d301cb318a55b39380`
 - **下载**：分支 `release/2.0.0-re` 的 `releases/` 目录，或 Releases 页发布的资产
 
